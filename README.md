@@ -1,10 +1,8 @@
 # Sample-READ.me
 
-##
-**Project**
+## **Project**
 Favorite Ice Cream of UIowa Swim Memebers
 
-###
-**Description**
+### **Description**
 Record of favorite ice cream from members of Men's Swim team at the University of Iowa
 
